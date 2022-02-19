@@ -4,3 +4,4 @@ ignore
 **/build
 **/node_modules
 **/.env
+**/secrets.ts
