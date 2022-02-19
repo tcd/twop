@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "./build",
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "lib": [
+            "es2021",
+            "DOM"
+        ],
+        // "typeRoots": [
+        //     "./src/shared/@types"
+        // ]
+    },
+    "include": [
+        "./src/**/*.ts",
+    ],
+    "exclude": [
+        "./node_modules",
+    ],
+}
