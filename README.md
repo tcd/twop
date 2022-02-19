@@ -1,3 +1,3 @@
-# T.W.O.P. (Twitter with Organized Posts)
+# T.W.O.P. 
 
 > WIP
